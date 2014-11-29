@@ -1,0 +1,22 @@
+{
+    "name": "cygnite/form",
+    "license": "MIT",
+    "keywords": ["Cygnite", "Form Builder", "Html Form"],
+    "authors": [
+        {
+            "name": "Sanjoy Dey",
+            "email": "dey.sanjoy0@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+		"cygnite/proxy" : "1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Cygnite\\FormBuilder": ""
+        }
+    },
+    "target-dir": "Cygnite\\FormBuilder",
+    "minimum-stability": "dev"
+}
