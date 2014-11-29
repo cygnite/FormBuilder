@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-		"cygnite/proxy" : "1.*"
+	    "cygnite/proxy": "dev-master"
     },
     "autoload": {
         "psr-0": {
