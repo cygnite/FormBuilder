@@ -2,6 +2,7 @@
     "name": "cygnite/form",
     "license": "MIT",
     "keywords": ["Cygnite", "Form Builder", "Html Form"],
+    "description": "Cygnite Form Builder Component. This package use for building html forms with ease.",
     "authors": [
         {
             "name": "Sanjoy Dey",
